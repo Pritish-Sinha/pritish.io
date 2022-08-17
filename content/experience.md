@@ -13,7 +13,7 @@ roles:
   - name: "Amazon Web Services(AICTE)"
     type: "ML Engineer Intern"
     image: "ml.png"
-    duration: "04/2020 – 07/2020"
+    duration: "03/2022 – 05/2022"
     link: "https://internship.aicte-india.org/internshipbyeduskills.php"
     description:
       - "Developed RESTful APIs for Industrial scale ML Pipeline"
