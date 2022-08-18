@@ -24,6 +24,13 @@ projects:
     platform: "web"
     stack: "Deep Learing, ES6, RNN, LSTM, Keras, Data Processing"
     source: "https://github.com/Pritish-Sinha/Deep-Learning-Projects/tree/main/Google_Stock_Price_Prediction%20%5BRNN%20%E2%81%84%20LSTM%5D"
+ 
+ - name: "Flood Cartographer"
+    description: "Worked on ISRO Flood detection challenge, a web application which maps the major flood prone regions of India and finds places near them using the MapBox, Places, and Directions API."
+    platform: "web"
+    stack: "Keras, JS, MapBox"
+    source: "https://github.com/Pritish-Sinha/Deep-Learning-Projects/tree/main/Google_Stock_Price_Prediction%20%5BRNN%20%E2%81%84%20LSTM%5D"
+    demo: "https://pritish-sinha.github.io/GU-Cartograhpers/" 
 
   - name: "Social Distancing Patch"
     description: "Social Distancing Patch using Arduino. It uses Twilio API to alert user of quarantined location and potential infected visits according to arogya setu data."
