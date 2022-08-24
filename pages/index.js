@@ -69,7 +69,7 @@ export default function Home(props) {
 						<h1>Hello, World!</h1>
 						<h1>I'm Pritish.</h1>
 						<p className="bio">
-							Computer Science Engineering Undergraduate from{" "}
+							Computer Science Engineering Undergrad(2024) from{" "}
 							<a href="https://www.galgotiasuniversity.edu.in/" target="_blank">
 								Galgotias
 							</a>
