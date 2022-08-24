@@ -19,15 +19,6 @@ roles:
       - "Developed RESTful APIs for Industrial scale ML Pipeline"
       - "Automated cleaning & transormation of raw data"
       - "Visualized change in accuracy of data after transformation on standard models"
-
-  - name: "Red Hat Academy"
-    type: "SDE Intern"
-    image: "red.png"
-    duration: "03/2022 – 05/2022"
-    link: "https://research.redhat.com/internships/"
-    description:
-      - "Deployed RESTful APIs on the android ecosystem"
-      - "Learned skills like time management and being a team player"
       
   - name: "IEEE GU"
     type: "Student chapter"
